@@ -8,7 +8,13 @@
 - Project 1.1.
    
 <h2>👨‍💻 Projects:</h2>
+Project 2.1
 
+- Project 2.2
+
+- Project 2.3
+
+Project 3.1
 
 
 <h2>📺 YouTube Videos</h2>
