@@ -5,7 +5,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Project 1</b>
 
-- Project 1.1.  
+- Project 1.1.
+   
+<h2>👨‍💻 Projects:</h2>
 
 
 
