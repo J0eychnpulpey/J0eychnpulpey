@@ -3,7 +3,7 @@
 <br/>Programmer</a>, Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>Project 1</b>
+- <b>Java Payroll System Basic</b>
 
 - Project 1.1.
    
