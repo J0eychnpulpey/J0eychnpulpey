@@ -5,7 +5,7 @@
 👩🏻‍🎓 Currently Studying Information Technology major in Networking & Cybersecurity at the [Mapúa Malayan Digital College](https://www.mmdc.mcl.edu.ph/), Philippines<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=J0eychnpulpey&theme=green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=J0eychnpulpey&theme=brown&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
