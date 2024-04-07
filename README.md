@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Paul!
-👩🏻‍💻 Cybersecurity Enthusiast, Cybercrime researcher <br/>
+👩🏻‍💻 Cybersecurity Enthusiast <br/>
 👩🏻‍🎓 Currently Studying Information Technology major in Networking & Cybersecurity at the [Mapúa Malayan Digital College](https://www.mmdc.mcl.edu.ph/), Philippines<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
